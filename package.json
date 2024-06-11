@@ -1,0 +1,17 @@
+{
+  "name": "pixelgooeytooltip",
+  "version": "1.0.0",
+  "description": "A dynamic tooltip animation with various reveal effects, comprised of different amounts of fragments appearing.",
+  "main": "index.js",
+  "devDependencies": {
+    "@chromatic-com/playwright": "^0.6.11",
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2",
+    "chromatic": "^11.5.3",
+    "http-server": "^14.1.1"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
