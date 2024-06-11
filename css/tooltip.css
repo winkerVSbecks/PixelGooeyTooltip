@@ -3,8 +3,8 @@
 	--tt-height: 250px;
 	--tt-columns: 3;
 	--tt-rows: 4;
-	--tt-bg-color: #4d25b0;
-	--tt-text-color: #abcb19;
+	--tt-bg-color: #FF6B6C;
+	--tt-text-color: #000;
 	position: absolute;
 	pointer-events: none;
 	opacity: 0;
@@ -77,9 +77,9 @@
     .tooltip__content {
         padding: 2rem;
     }
-    
+
     .tooltip__content-title {
         font-size: 2rem;
     }
-    
+
 }
